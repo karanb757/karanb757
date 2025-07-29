@@ -2,7 +2,10 @@
   
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
 
-<h1>Hi 👋, I'm Karan</h1>
+<h1>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd20yemlycmJqazU5YjNhMXd5ZzRmZXV1eHQ5c3I0MGRwOGRpMzF6YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lovLgBpqzAHBvG1kI5/giphy.gif" width="60" style="vertical-align:middle;"/> I'm Karan
+</h1>
+
 <h3>Full Stack MERN Web Developer | ReactJS | NextJS | Passionate about building user-centric digital experiences</h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=karanb757&label=Profile%20views&color=0e75b6&style=flat)
