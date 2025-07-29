@@ -15,15 +15,15 @@
 
 ### 👨‍💻 About Me
 
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently working on **Resworb Browser** <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="25" /> &nbsp; I’m currently learning **🔍 Advanced DSA | ⚙️ System Design | 🔧 TypeScript + Next.js | 🚀 CI/CD & DevOps | 📊 API Optimization** 
-  <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="12%"/> <br>
-- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG9kNml6ZjNmZDB1bjFtanVxcTlrcDU4cnY1cDJmMjkweGk0ZjBucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4YCCY41GKzDuYeHnWW/giphy.gif" width="25" /> &nbsp; I’m looking to collaborate on **Full Stack Projects** <br>
-- <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdsMjhjNWgwejZlM3QwNGt5a2M1MHZ4MzJiN3Btb2ZmdHJ6cG03cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/02RJUkpmGy0qmu4Dwz/giphy.gif" width="35" /> &nbsp; I’m looking for help with **FindMyPG** <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" /> &nbsp; Ask me about **💻 MERN Stack | 🧠 DSA | 🛠️ Scalable Web Apps** <br>
-- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmhrOXE1cXZubTE0bDJsY2ljbTYzczMwbjU1b3YzaWlqOGxjbWpkbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6zPOFOa8B7V2W1knzD/giphy.gif" width="25" /> &nbsp; Reach me at **karanbodkhe757@gmail.com** <br>
-- <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDd1cXM2MjNyZzBrbmo5NDExZ3h3YWRmZXkwdzM0ZHU1eWN3YTBubiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RMZWv7UqikFGIvv6m4/giphy.gif" width="25" /> &nbsp; Know about my experiences [**My Resume**](https://drive.google.com/file/d/1adqxc8raqZUcGRnjCbd8n630Ju7geyoi/view?usp=drive_link) <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="18" /> &nbsp; **Fun fact:** I love turning complex backend logic into clean, minimal UI components. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="22" height="22" style="vertical-align:middle;"/> &nbsp; I’m currently working on **Resworb Browser**
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="22" height="22" style="vertical-align:middle;"/> &nbsp; I’m currently learning **🔍 Advanced DSA | ⚙️ System Design | 🔧 TypeScript + Next.js | 🚀 CI/CD & DevOps | 📊 API Optimization** 
+- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG9kNml6ZjNmZDB1bjFtanVxcTlrcDU4cnY1cDJmMjkweGk0ZjBucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4YCCY41GKzDuYeHnWW/giphy.gif" width="22" height="22" style="vertical-align:middle;"/> &nbsp; I’m looking to collaborate on **Full Stack Projects**
+- <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdsMjhjNWgwejZlM3QwNGt5a2M1MHZ4MzJiN3Btb2ZmdHJ6cG03cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/02RJUkpmGy0qmu4Dwz/giphy.gif" width="22" height="22" style="vertical-align:middle;"/> &nbsp; I’m looking for help with **FindMyPG**
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="22" height="22" style="vertical-align:middle;"/> &nbsp; Ask me about **💻 MERN Stack | 🧠 DSA | 🛠️ Scalable Web Apps**
+- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmhrOXE1cXZubTE0bDJsY2ljbTYzczMwbjU1b3YzaWlqOGxjbWpkbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6zPOFOa8B7V2W1knzD/giphy.gif" width="22" height="22" style="vertical-align:middle;"/> &nbsp; Reach me at **karanbodkhe757@gmail.com**
+- <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDd1cXM2MjNyZzBrbmo5NDExZ3h3YWRmZXkwdzM0ZHU1eWN3YTBubiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RMZWv7UqikFGIvv6m4/giphy.gif" width="22" height="22" style="vertical-align:middle;"/> &nbsp; Know about my experiences [**My Resume**](https://drive.google.com/file/d/1adqxc8raqZUcGRnjCbd8n630Ju7geyoi/view?usp=drive_link)
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="18" height="18" style="vertical-align:middle;"/> &nbsp; **Fun fact:** I love turning complex backend logic into clean, minimal UI components.
+
 
 
 
