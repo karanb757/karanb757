@@ -79,3 +79,9 @@
 &nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="12%"/>
 </div>
+
+### 🐍 GitHub Contribution Snake
+
+![GitHub Snake Light](https://raw.githubusercontent.com/karanb757/karanb757/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/karanb757/karanb757/output/github-snake-dark.svg#gh-dark-mode-only)
+
