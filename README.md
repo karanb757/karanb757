@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2d2ZHN3aWxzeTlxa3psZHg3YTEza2xwZWxxN2JjZTY2a3QzcHlsbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Workspace" width="20%"/><br> 
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2d2ZHN3aWxzeTlxa3psZHg3YTEza2xwZWxxN2JjZTY2a3QzcHlsbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Workspace" width="20%"/><br>  
 
 <h1>
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd20yemlycmJqazU5YjNhMXd5ZzRmZXV1eHQ5c3I0MGRwOGRpMzF6YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lovLgBpqzAHBvG1kI5/giphy.gif" width="60" style="vertical-align:middle;"/> I'm Karan
