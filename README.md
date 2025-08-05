@@ -76,7 +76,6 @@ ReactJS, NextJS, ExpressJS, NodeJS, HTML, CSS, MongoDB
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karanb757&show_icons=true&locale=en&layout=compact" height="150" />
 <img src="https://github-readme-stats.vercel.app/api?username=karanb757&show_icons=true&locale=en" height="150" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=karanb757" height="150" />
 </div>
 
 ---
