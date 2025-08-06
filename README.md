@@ -50,11 +50,11 @@ ReactJS, NextJS, ExpressJS, NodeJS, HTML, CSS, MongoDB
 
   <!-- Frontend Frameworks -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/>
+  <img src="https://i.redd.it/k3b8cs0ob8ya1.jpg" width="50"/>
 
   <!-- Backend -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
+  <img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" width="40"/>
 
   <!-- Databases -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
