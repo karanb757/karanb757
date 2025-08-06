@@ -26,12 +26,10 @@ ReactJS, NextJS, ExpressJS, NodeJS, HTML, CSS, MongoDB
 
 
 
-
----
-
 ### 🌐 Connect With Me
 <p align="left">
 <a href="https://linkedin.com/in/karan bodkhe" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/></a>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/></a>
 <a href="https://instagram.com/_karan797" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/></a>
 <a href="https://www.codechef.com/users/karan757" target="_blank"><img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png" width="40"/></a>
 <a href="https://www.leetcode.com/karan757" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/></a>
