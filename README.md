@@ -11,7 +11,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=karanb757&label=Profile%20views&color=0e75b6&style=flat)
 
 </div>
----
+
 
 ### 👨‍💻 About Me
 
@@ -30,8 +30,8 @@ ReactJS, NextJS, ExpressJS, NodeJS, HTML, CSS, MongoDB
 <a href="https://www.linkedin.com/in/karan-bodkhe-57824524a/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/></a>  &nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/_karan797" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/></a>  &nbsp;&nbsp;&nbsp;
 <a href="https://www.codechef.com/users/karan757" target="_blank"><img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png" width="40"/></a>  &nbsp;&nbsp;&nbsp;
-<a href="https://www.leetcode.com/karan757" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/></a>  &nbsp;&nbsp;&nbsp;
-<a href="https://auth.geeksforgeeks.org/user/karan757" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="40"/></a>   &nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/u/karanbodkhe757/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/></a>  &nbsp;&nbsp;&nbsp;
+<a href="https://www.geeksforgeeks.org/user/karanbodc4ag/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="40"/></a>   &nbsp;&nbsp;&nbsp;
 </p>
 
 ---
