@@ -93,6 +93,8 @@ ReactJS, NextJS, ExpressJS, NodeJS, HTML, CSS, MongoDB
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="12%"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="12%"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdob3g0d2xjcXlkOXJnMDNneDVscWc4cXJtejAyZGU3bG55MTBlbiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/13xxoHrXk4Rrdm/giphy.gif" width="12%"
+/>
 </div>
 
 
