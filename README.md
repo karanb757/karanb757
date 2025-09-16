@@ -20,7 +20,7 @@
 ReactJS, NextJS, ExpressJS, NodeJS, HTML, CSS, MongoDB
 - <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG9kNml6ZjNmZDB1bjFtanVxcTlrcDU4cnY1cDJmMjkweGk0ZjBucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4YCCY41GKzDuYeHnWW/giphy.gif" width="22" height="22" style="vertical-align:middle;"/> &nbsp; Looking for a Web Developer Job | Internship
 - <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHgyaHc2ODY2OWRpbGk0eWpqd3RnMHBtaWdpc3owM3BkdHdnamFjaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KxlbRn0HuTW7gZID83/giphy.gif" width="22" height="22" style="vertical-align:middle;"/> &nbsp; Mail : **karanbodkhe757@gmail.com**
-- <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDd1cXM2MjNyZzBrbmo5NDExZ3h3YWRmZXkwdzM0ZHU1eWN3YTBubiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RMZWv7UqikFGIvv6m4/giphy.gif" width="22" height="22" style="vertical-align:middle;"/> &nbsp; Resume : [Know About Me](https://drive.google.com/file/d/1adqxc8raqZUcGRnjCbd8n630Ju7geyoi/view?usp=drive_link)
+- <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDd1cXM2MjNyZzBrbmo5NDExZ3h3YWRmZXkwdzM0ZHU1eWN3YTBubiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RMZWv7UqikFGIvv6m4/giphy.gif" width="22" height="22" style="vertical-align:middle;"/> &nbsp; Resume : [Know About Me](https://drive.google.com/file/d/1lT4W0yKrt6p-xibAiucMLn9gAc1-guwi/view?usp=sharing)
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="18" height="18" style="vertical-align:middle;"/> &nbsp;&nbsp; Fun fact: I love turning Design's into clean, minimal UI components.
 
 
