@@ -67,19 +67,6 @@ ReactJS, NextJS, ExpressJS, NodeJS, HTML, CSS, MongoDB
 </p>
 
 
-
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=karanb757&show_icons=true&locale=en&layout=compact" height="150" />
-<img src="https://github-readme-stats.vercel.app/api?username=karanb757&show_icons=true&locale=en" height="150" />
-</div>
-
----
-
 ### 🐍 GitHub Contribution Snake
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/karanb757/karanb757/output/github-snake.svg#gh-light-mode-only)
